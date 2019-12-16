@@ -1,4 +1,4 @@
-# Face-recognition-for-taking-attendance-
+# Face-recognition-for-taking-attendance
 
 Problem Statement: Attendance in colleges and organisation have been a time consuming task.Moreover there are chances of fake attendace of fake attendance and proxy in colleges.In order to avoid these troubles,improve accuracy and to make automated without human intervention,We proposed a solution using computer vision.
 
